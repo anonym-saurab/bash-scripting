@@ -10,7 +10,7 @@ _**To be continued**_
 
 ## 📖 About the Project
 
-This repository contains an automated **reconnaissance and enumeration scripts i am learning from beginner to advanced level**
+This repository contains automated **reconnaissance and enumeration scripts i am learning from beginner to advanced level**
 
 ## ⚡ Features
 ✅ **Automated Subdomain Enumeration** (Sublist3r & Assetfinder)  
@@ -25,7 +25,7 @@ cd bash-scripting
 ```
 
 ### Give execution permission
-`chmod +x recon.sh`
+`chmod +x script_name.sh`
 
 ### Usage
 Run the script with a target domain:
