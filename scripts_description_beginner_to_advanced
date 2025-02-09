@@ -1,0 +1,17 @@
+## Learning and Creating beginer to advanced projects for #roadmap_to_offsec of #month1
+
+**Beginner Projects (Easy but essential for practise)**
+
+### Script1
+💡 **Task:** Create a Bash script that:
+- Takes a directory name as input.
+- Creates that directory.
+- Moves all `.txt` files from the current directory into that folder.
+- Logs all moved files into `logfile.txt`.
+
+### Script2
+💡 **Task:** Write a script that:
+- Checks **CPU usage, memory usage, and disk space**.
+- Saves the output into `system_status.log`.
+- Sends an alert to the system if CPU usage goes beyond 80%.
+
